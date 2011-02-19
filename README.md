@@ -9,6 +9,5 @@ There are four main things here:
 * `hide-content.html` - a simple MooTools `fade` example
 * `slide-show.html` - a more fully-fledged slide show example
 
-See also:
-http://phiffer.org/presentations/intro-to-javascript/
+See also: [http://phiffer.org/presentations/intro-to-javascript/](Intro to JavaScript on phiffer.org)
 
