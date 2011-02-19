@@ -1,6 +1,15 @@
 body {
+  font: 11px verdana, sans-serif;
   background: #222;
   margin: 0;
+}
+
+a {
+  color: #999;
+}
+
+a:hover {
+  color: #D8EA5E;
 }
 
 #slides {
@@ -19,4 +28,10 @@ body {
 
 #slides img {
   float: left;
+}
+
+#credit {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
 }
