@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Hide content</title>
+  </head>
+  <body>
+    <p id="hide">Click to hide me!</p>
+    <script src="mootools.js"></script>
+    <script>
+    $('hide').addEvent('click', function() {
+      $('hide').fade('out');
+    });
+    </script>
+  </body>
+</html>

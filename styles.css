@@ -1,0 +1,22 @@
+body {
+  background: #222;
+  margin: 0;
+}
+
+#slides {
+  width: 991px;
+  height: 671px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+#inner {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#slides img {
+  float: left;
+}
